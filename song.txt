@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sword and spear
 wall of shields
 standing strong
@@ -8,3 +9,10 @@ Shield by shield
 Side by side
 We're marching into destiny
 --------------------------------------
+=======
+Sword and spear
+standing strong
+on their chosen battle field
+Form the lines
+Shield by shield
+>>>>>>> 079b73cfdfb6bfd019e6eab852032ae3f9802b2e
